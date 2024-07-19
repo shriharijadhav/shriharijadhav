@@ -22,7 +22,7 @@
 <br/>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <br/>
 <p>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-right: 10px;"/>
@@ -50,7 +50,7 @@
 </p>
 
 <br/>
-## Top Projects
+# 💻 Top Projects
 
 ### Digital Invitations
 - **Description**: A project for creating digital wedding invitations with features like event details, live location, images, and a stylish countdown timer. Built with React, Redux, Node.js, MongoDB, Express.js, and Chakra UI.
@@ -76,7 +76,7 @@
 
 
  <br/>
-# 💻 GitHub Stack:
+# 💻GitHub Stack:
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriharijadhav&show_icons=true&locale=en&layout=compact" alt="shriharijadhav" />
