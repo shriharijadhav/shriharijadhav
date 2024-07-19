@@ -55,11 +55,11 @@
 <br />
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shriharijadhav&show_icons=true&locale=en" alt="shriharijadhav" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shriharijadhav&show_icons=true&locale=en" alt="shriharijadhav" />
 </p>
 
 <br />
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shriharijadhav&" alt="shriharijadhav" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shriharijadhav&" alt="shriharijadhav" />
 </p>
