@@ -8,12 +8,11 @@
 - 🌱 **I’m currently learning**: Diving into [Next.js](https://nextjs.org/) to build server-rendered React applications and improve my skills in modern web development.
 
 - 👯 **I’m looking to collaborate on**: Exciting projects involving [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [Node.js](https://nodejs.org/). Open to collaborating on innovative web applications or tools.
-- 🤔 **I’m looking for help with**: Advanced [machine learning](https://www.coursera.org/learn/machine-learning) techniques and integrating them with web applications.
+
 - 💬 **Ask me about**: Web development, especially React and Node.js, or about building efficient, scalable applications.
 - 📫 **How to reach me**: Feel free to reach out to me via [mr.shriahri212@gmail.com](mailto:mr.shriahri212@gmail.com) or connect with me on [linkedIn](https://www.linkedin.com/in/shriharijadhav126/).
 
-- 📫 How to reach me **mr.shriahri212@gmail.com**
-
+ 
 <br/>
 
 <h3 align="left">Connect with me:</h3>
@@ -50,8 +49,33 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-
 <br/>
+## Top Projects
+
+### Digital Invitations
+- **Description**: A project for creating digital wedding invitations with features like event details, live location, images, and a stylish countdown timer. Built with React, Redux, Node.js, MongoDB, Express.js, and Chakra UI.
+- **Tech Stack**: React, Redux, Node.js, MongoDB, Express.js, Chakra UI
+- [Live Demo](https://digitalinvitations.vercel.app/)
+
+
+### YouTube Music Player
+- **Description**: Ad-Free YouTube Music Player which allows users to play any song/playlist available on YouTube for absolutely free.
+- **Tech Stack**: React, Context, Node.js, MongoDB, Express.js, Tailwind CSS
+- [Live Demo](https://youtubemusicplayer.vercel.app/)
+
+### OTP-based Authentication System
+- **Description**: A clone of the PharmEasy website created using only HTML, CSS, and JavaScript. It replicates the main features of the original site, including the product listings and checkout process.
+- **Tech Stack**: React, Redux, Node.js, MongoDB, Express.js, Chakra UI
+- [Repository Link](https://github.com/shriharijadhav/secure_login_frontend)
+
+
+### Groupon Clone
+- **Description**: A clone of the Groupon website built with React, Redux, and Chakra UI. It includes features such as deal listings, user authentication, and a responsive design.
+- **Tech Stack**: React, Redux, Chakra UI
+- [Live Demo](https://groupon-gamma.vercel.app/)
+
+
+ <br/>
 # 💻 GitHub Stack:
 
 <div>
@@ -66,3 +90,5 @@
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriharijadhav&" alt="shriharijadhav" />
 </div>
+
+
