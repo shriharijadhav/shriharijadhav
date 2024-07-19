@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriharijadhav&label=Profile%20views&color=0e75b6&style=flat" alt="shriharijadhav" /> </p>
 
 
-
 - 🔭 **I’m currently working on**: Developing and refining my [Digital Invitations](https://github.com/yourusername/digital-invitations) project, which aims to modernize wedding invitations with interactive features and live updates.
 - 🌱 **I’m currently learning**: Diving into [Next.js](https://nextjs.org/) to build server-rendered React applications and improve my skills in modern web development.
 
