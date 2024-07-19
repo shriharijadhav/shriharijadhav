@@ -48,16 +48,14 @@
 </p>
 
 
-<p>
+
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriharijadhav&show_icons=true&locale=en&layout=compact" alt="shriharijadhav" />
-</p>
+
 
 <br />
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shriharijadhav&show_icons=true&locale=en" alt="shriharijadhav" />
-</p>
-
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shriharijadhav&show_icons=true&locale=en" alt="shriharijadhav" />
+ 
 <br />
 
 <p>
