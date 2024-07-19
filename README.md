@@ -51,7 +51,7 @@
 
 <br/>
 
-# 💻 Tech Stack
+# 💻 Top Projects
 
 ### Digital Invitations
 - **Description**: A project for creating digital wedding invitations with features like event details, live location, images, and a stylish countdown timer. Built with React, Redux, Node.js, MongoDB, Express.js, and Chakra UI.
@@ -77,7 +77,8 @@
 
 
  <br/>
-# 💻GitHub Stack:
+ 
+# 💻GitHub Stack
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriharijadhav&show_icons=true&locale=en&layout=compact" alt="shriharijadhav" />
