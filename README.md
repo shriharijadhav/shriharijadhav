@@ -78,7 +78,7 @@
 
  <br/>
  
-# 💻GitHub Stack
+# 💻GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriharijadhav&show_icons=true&locale=en&layout=compact" alt="shriharijadhav" />
