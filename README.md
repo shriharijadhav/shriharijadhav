@@ -7,7 +7,8 @@
 
 
 - 🔭 **I’m currently working on**: Developing and refining my [Digital Invitations](https://github.com/yourusername/digital-invitations) project, which aims to modernize wedding invitations with interactive features and live updates.
-- 🌱 **I’m currently learning**: Exploring [TypeScript](https://www.typescriptlang.org/) to enhance my JavaScript skills and diving into [GraphQL](https://graphql.org/) for better data querying and manipulation.
+- 🌱 **I’m currently learning**: Diving into [Next.js](https://nextjs.org/) to build server-rendered React applications and improve my skills in modern web development.
+
 - 👯 **I’m looking to collaborate on**: Exciting projects involving [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [Node.js](https://nodejs.org/). Open to collaborating on innovative web applications or tools.
 - 🤔 **I’m looking for help with**: Advanced [machine learning](https://www.coursera.org/learn/machine-learning) techniques and integrating them with web applications.
 - 💬 **Ask me about**: Web development, especially React and Node.js, or about building efficient, scalable applications.
