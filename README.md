@@ -57,7 +57,7 @@
 ### Digital Invitations
 - **Description**: A project for creating digital wedding invitations with features like event details, live location, images, and a stylish countdown timer. Built with React, Redux, Node.js, MongoDB, Express.js, and Chakra UI.
 - **Tech Stack**: React, Redux, Node.js, MongoDB, Express.js, Chakra UI
-- [Live Demo](https://digitalinvitations.vercel.app/)
+- [Live Demo](https://digitalinvitations.vercel.app/viratwedsanushka)
 
 
 ### YouTube Music Player
